@@ -9,6 +9,6 @@
 * [Data Processing (Python ipynb file)](Project/IE360_Project_Data_processing_Group28.ipynb)
 * [Source Codes (R ipynb file)](Project/IE360_Project_RCodes_Group28.ipynb)
 * [HTML file](Project/IE360_Project_RCodes_Group28.html)
-* [Project Report](Project/IE360 Project Report.html)
+* [Project Report](Project/IE360_Project_Report.pdf)
 
   
